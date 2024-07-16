@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "Janie S. Edwards",
+    "Phone": "515-378-9647",
+    "Occupation": "Landscape designer",
+    "Image": "https://raw.githubusercontent.com/FolderTest/test/main/images/default-profile-picture.jpg",
+    "City": "Thor"
+  },
+  {
+    "Name": "Fredrick T. Asmus",
+    "Phone": "843-636-2542",
+    "Occupation": "Greenhouse worker",
+    "Image": "https://raw.githubusercontent.com/FolderTest/test/main/images/default-profile-picture.jpg",
+    "City": "St George"
+  },
+  {
+    "Name": "Carrie D. Reed",
+    "Phone": "870-768-0145",
+    "Occupation": "Computer training specialist",
+    "Image": "https://raw.githubusercontent.com/FolderTest/test/main/images/default-profile-picture.jpg",
+    "City": "Moro"
+  },
+  {
+    "Name": "Frances R. Leal",
+    "Phone": "941-624-6873",
+    "Occupation": "Media director",
+    "Image": "https://raw.githubusercontent.com/FolderTest/test/main/images/default-profile-picture.jpg",
+    "City": "Port Charlotte"
+  },
+  {
+    "Name": "Daniel C. Jonesn",
+    "Phone": "601-527-7923",
+    "Occupation": "Emergency care nurse",
+    "Image": "https://raw.githubusercontent.com/FolderTest/test/main/images/default-profile-picture.jpg",
+    "City": "Jackson"
+  },
+  {
+    "Name": "Gerald S. Ramos",
+    "Phone": "717-340-0130",
+    "Occupation": "Telephone line installer",
+    "Image": "https://raw.githubusercontent.com/FolderTest/test/main/images/default-profile-picture.jpg",
+    "City": "Harrisburg"
+  },
+  {
+    "Name": "Victoria T. Sprinkle",
+    "Phone": "260-421-2879",
+    "Occupation": "Plant custodian",
+    "Image": "https://raw.githubusercontent.com/FolderTest/test/main/images/default-profile-picture.jpg",
+    "City": "Fort Wayne"
+  }
+]

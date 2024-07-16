@@ -1,0 +1,9 @@
+﻿global using System.Text;
+global using System.Diagnostics;
+global using System.Collections.ObjectModel;
+global using CommunityToolkit.Mvvm.Input;
+global using CommunityToolkit.Mvvm.ComponentModel;
+global using Plugin.LocalNotification;
+global using TestApp.Model;
+global using TestApp.ViewModel;
+global using TestApp.Services;
